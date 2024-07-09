@@ -17,8 +17,8 @@ body {
 
 .order {
   position: fixed; 
-  width: 100%;
-  font-size: 50px;
+  width: 200%;
+  font-size: 80px;
   font-family: "Gill Sans", sans-serif;
   text-align: center;
   color: #fff;
@@ -27,7 +27,7 @@ body {
 
 .btn {
   position: fixed; 
-  margin-top: 150px;
+  margin-top: 250px;
 }
 
 svg {
@@ -39,12 +39,13 @@ svg {
   display: flex;
   justify-content: center;
   align-items: center;
-  width: 200px;
+  width: 400px;
+  height: 60px;
   padding: 20px 25px;
   border-radius: 50px;
   background: #f5efff;
   box-shadow: 1px 1px 20px 1px #f5efff;
-  font-size: 1.5rem;
+  font-size: 3.5rem;
   text-decoration: none;
   text-transform: uppercase;
   font-weight: 600;
